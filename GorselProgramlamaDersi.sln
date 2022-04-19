@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GorselProgramlamaDersi", "G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerDondurenMetot", "DegerDondurenMetot\DegerDondurenMetot.csproj", "{8903EB55-CA04-4A05-856F-E5B0DC6ED2F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerAtamaRefOut", "DegerAtamaRefOut\DegerAtamaRefOut.csproj", "{E19FFB61-0CFE-42CB-B826-9D624C99E49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamsAnahtarSozcugu", "ParamsAnahtarSozcugu\ParamsAnahtarSozcugu.csproj", "{9A653D1C-E089-430A-9DF5-1D5EBF1DACDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8903EB55-CA04-4A05-856F-E5B0DC6ED2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8903EB55-CA04-4A05-856F-E5B0DC6ED2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8903EB55-CA04-4A05-856F-E5B0DC6ED2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E19FFB61-0CFE-42CB-B826-9D624C99E49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19FFB61-0CFE-42CB-B826-9D624C99E49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19FFB61-0CFE-42CB-B826-9D624C99E49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19FFB61-0CFE-42CB-B826-9D624C99E49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A653D1C-E089-430A-9DF5-1D5EBF1DACDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A653D1C-E089-430A-9DF5-1D5EBF1DACDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A653D1C-E089-430A-9DF5-1D5EBF1DACDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A653D1C-E089-430A-9DF5-1D5EBF1DACDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
