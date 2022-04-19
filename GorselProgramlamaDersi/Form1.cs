@@ -17,7 +17,7 @@ namespace GorselProgramlamaDersi
         {
             InitializeComponent();
         }
-
+        //This anahtar sözcüğünün kulanımına dair bir örnek.
         public int ThisKullanimi(int deger)
         {
             this.deger = this.deger * deger;
